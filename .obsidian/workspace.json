@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "885673fadb94b03e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Arrays and Hashing/Group Anagrams/Drawing 2025-09-19 14.47.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-19 14.47.11.excalidraw"
-            }
-          },
-          {
             "id": "9b3405c5f5e7ca7b",
             "type": "leaf",
             "state": {
@@ -29,6 +17,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-09-19 14.48.05.excalidraw"
+            }
+          },
+          {
+            "id": "d23dcd9863e4a584",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arrays and Hashing/Group Anagrams/Pasted Image 20250919145144_176.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250919145144_176"
             }
           }
         ],
@@ -194,10 +194,13 @@
   },
   "active": "d5e8338d8f14f1f6",
   "lastOpenFiles": [
+    "Arrays and Hashing/Group Anagrams/Excalidraw/Drawing 2025-09-19 14.51.37.excalidraw.md",
+    "Arrays and Hashing/Group Anagrams/Pasted Image 20250919145144_176.png",
     "Arrays and Hashing/Group Anagrams/Drawing 2025-09-19 14.47.11.excalidraw.md",
+    "Arrays and Hashing/Group Anagrams/Excalidraw",
     "Arrays and Hashing/Leetcode 128 - LONGEST CONSECUTIVE SEQUENCE/Drawing 2025-09-19 14.48.05.excalidraw.md",
-    "Arrays and Hashing/Leetcode 128 - LONGEST CONSECUTIVE SEQUENCE",
     "Pasted Image 20250919144716_683.png",
+    "Arrays and Hashing/Leetcode 128 - LONGEST CONSECUTIVE SEQUENCE",
     "Untitled.md",
     "Arrays and Hashing/Group Anagrams",
     "Arrays and Hashing",
