@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "36524c609820987d",
+        "id": "8f6629e9797f8f9a",
         "type": "tabs",
         "children": [
           {
-            "id": "4b17b7ea61c443bb",
+            "id": "885673fadb94b03e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Arrays and Hashing/Group Anagrams/Drawing 2025-09-19 14.47.11.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-19 14.47.11.excalidraw"
+            }
+          },
+          {
+            "id": "9b3405c5f5e7ca7b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Arrays and Hashing/Leetcode 128 - LONGEST CONSECUTIVE SEQUENCE/Drawing 2025-09-19 14.48.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-19 14.48.05.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "daa1e888e1257bcb",
@@ -166,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +192,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "4b17b7ea61c443bb",
+  "active": "d5e8338d8f14f1f6",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Arrays and Hashing/Group Anagrams/Drawing 2025-09-19 14.47.11.excalidraw.md",
+    "Arrays and Hashing/Leetcode 128 - LONGEST CONSECUTIVE SEQUENCE/Drawing 2025-09-19 14.48.05.excalidraw.md",
+    "Arrays and Hashing/Leetcode 128 - LONGEST CONSECUTIVE SEQUENCE",
+    "Pasted Image 20250919144716_683.png",
+    "Untitled.md",
+    "Arrays and Hashing/Group Anagrams",
+    "Arrays and Hashing",
+    "Untitled.md~",
+    "4913"
   ]
 }
