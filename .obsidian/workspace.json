@@ -102,9 +102,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-09-19 14.59.31.excalidraw"
             }
+          },
+          {
+            "id": "45ae8e7516e9fddb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Two Pointers/Trapping Rain Water/Drawing 2025-09-25 21.05.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-25 21.05.56.excalidraw"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -264,17 +276,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9c3a3b92aba88c6b",
+  "active": "d5e8338d8f14f1f6",
   "lastOpenFiles": [
+    "Two Pointers/Container With Most Water/Drawing 2025-09-19 14.59.31.excalidraw.md",
+    "Two Pointers/Trapping Rain Water/Drawing 2025-09-25 21.05.56.excalidraw.md",
+    "Two Pointers/Trapping Rain Water/Excalidraw",
+    "Two Pointers/Trapping Rain Water",
     "Two Pointers/3Sum/Drawing 2025-09-19 14.58.59.excalidraw.md",
-    "Untitled",
     "Two Pointers/Valid Palindrome/Drawing 2025-09-19 15.01.10.excalidraw.md",
     "Two Pointers/Valid Palindrome/Pasted Image 20250919150122_022.png",
     "Drawing 2025-09-19 15.00.55.excalidraw.md",
     "Two Pointers/Valid Palindrome",
     "Two Pointers/Two Integer sum II/Drawing 2025-09-19 15.00.05.excalidraw.md",
     "Two Pointers/Two Integer sum II/Pasted Image 20250919150051_858.png",
-    "Two Pointers/Container With Most Water/Drawing 2025-09-19 14.59.31.excalidraw.md",
     "Two Pointers/Two Integer sum II",
     "Two Pointers/3Sum/Pasted Image 20250919145909_221.png",
     "Two Pointers/Container With Most Water",
@@ -291,7 +305,6 @@
     "Longest Consecutive Sequence/Excalidraw/Drawing 2025-09-19 14.56.51.excalidraw.md",
     "Arrays and Hashing/Group Anagrams/Drawing 2025-09-19 14.55.56.excalidraw.md",
     "Longest Consecutive Sequence/Excalidraw",
-    "Arrays and Hashing/Longest Consecutive Sequence",
     "Arrays and Hashing/Group Anagrams/Pasted Image 20250919145603_899.png",
     "Arrays and Hashing/Group Anagrams/Excalidraw/Drawing 2025-09-19 14.55.28.excalidraw.md",
     "Drawing 2025-09-19 14.54.30.excalidraw.md",
