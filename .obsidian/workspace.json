@@ -11,15 +11,28 @@
             "id": "f8fd2d2199481a26",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Arrays and Hashing/Valid Anagram/Pasted Image 20250919145831_877.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250919145831_877"
+            }
+          },
+          {
+            "id": "b0245df2f9e32bee",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Arrays and Hashing/Products of Array Except Self/Drawing 2025-09-28 23.26.54.excalidraw.md"
+                "file": "Arrays and Hashing/Group Anagrams/Drawing 2025-09-19 14.55.56.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-28 23.26.54.excalidraw"
+              "title": "Drawing 2025-09-19 14.55.56.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "daa1e888e1257bcb",
@@ -181,15 +193,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f8fd2d2199481a26",
+  "active": "b0245df2f9e32bee",
   "lastOpenFiles": [
+    "Arrays and Hashing/Two Sum/Drawing 2025-09-29 00.04.47.excalidraw.md",
+    "Arrays and Hashing/Valid Anagram/Pasted Image 20250919145831_877.png",
+    "Excalidraw",
+    "Arrays and Hashing/Two Sum",
+    "Arrays and Hashing/Valid Anagram/Drawing 2025-09-19 14.58.20.excalidraw.md",
+    "Arrays and Hashing/Products of Array Except Self/Drawing 2025-09-28 23.26.54.excalidraw.md",
     "Stack/Valid Parentheses/Drawing 2025-09-25 21.08.48.excalidraw.md",
     "Two Pointers/Trapping Rain Water/Drawing 2025-09-25 21.05.56.excalidraw.md",
     "Two Pointers/Container With Most Water/Drawing 2025-09-19 14.59.31.excalidraw.md",
     "Two Pointers/Two Integer sum II/Drawing 2025-09-19 15.00.05.excalidraw.md",
     "Two Pointers/3Sum/Drawing 2025-09-19 14.58.59.excalidraw.md",
-    "Arrays and Hashing/Products of Array Except Self/Drawing 2025-09-28 23.26.54.excalidraw.md",
-    "Excalidraw",
     "Arrays and Hashing/Products of Array Except Self",
     "Stack/Valid Parentheses",
     "Stack",
@@ -203,9 +219,6 @@
     "Two Pointers/Two Integer sum II",
     "Two Pointers/3Sum/Pasted Image 20250919145909_221.png",
     "Two Pointers/Container With Most Water",
-    "Arrays and Hashing/Valid Anagram/Drawing 2025-09-19 14.58.20.excalidraw.md",
-    "Two Pointers/3Sum",
-    "Arrays and Hashing/Valid Anagram/Pasted Image 20250919145831_877.png",
     "Arrays and Hashing/Top K/Drawing 2025-09-19 14.57.28.excalidraw.md",
     "Arrays and Hashing/Top K/Pasted Image 20250919145807_729.png",
     "Arrays and Hashing/Longest Consecutive Sequence/Pasted Image 20250919145714_524.png",
