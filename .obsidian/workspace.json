@@ -8,127 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b3405c5f5e7ca7b",
+            "id": "f8fd2d2199481a26",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Arrays and Hashing/Group Anagrams/Drawing 2025-09-19 14.55.56.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "7f6368a83c7448a0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Arrays and Hashing/Longest Consecutive Sequence/Drawing 2025-09-19 14.56.59.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "2598cc7a82ad1771",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Arrays and Hashing/Top K/Drawing 2025-09-19 14.57.28.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "e454baf59df89d96",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Arrays and Hashing/Valid Anagram/Drawing 2025-09-19 14.58.20.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "e2f7e6acb884c7be",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Two Pointers/3Sum/Drawing 2025-09-19 14.58.59.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "2c602b6e8fd75d97",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Two Pointers/Container With Most Water/Drawing 2025-09-19 14.59.31.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "6f943e7793b3f711",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Two Pointers/Two Integer sum II/Drawing 2025-09-19 15.00.05.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "9c3a3b92aba88c6b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Two Pointers/Container With Most Water/Drawing 2025-09-19 14.59.31.excalidraw.md"
+                "file": "Arrays and Hashing/Products of Array Except Self/Drawing 2025-09-28 23.26.54.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-19 14.59.31.excalidraw"
-            }
-          },
-          {
-            "id": "45ae8e7516e9fddb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Two Pointers/Trapping Rain Water/Drawing 2025-09-25 21.05.56.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-25 21.05.56.excalidraw"
-            }
-          },
-          {
-            "id": "2d189c43849643e5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Stack/Valid Parentheses/Drawing 2025-09-25 21.08.48.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-25 21.08.48.excalidraw"
+              "title": "Drawing 2025-09-28 23.26.54.excalidraw"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "daa1e888e1257bcb",
@@ -274,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,29 +179,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2cec9a96bf4fbd29",
+  "active": "f8fd2d2199481a26",
   "lastOpenFiles": [
     "Stack/Valid Parentheses/Drawing 2025-09-25 21.08.48.excalidraw.md",
     "Two Pointers/Trapping Rain Water/Drawing 2025-09-25 21.05.56.excalidraw.md",
+    "Two Pointers/Container With Most Water/Drawing 2025-09-19 14.59.31.excalidraw.md",
+    "Two Pointers/Two Integer sum II/Drawing 2025-09-19 15.00.05.excalidraw.md",
+    "Two Pointers/3Sum/Drawing 2025-09-19 14.58.59.excalidraw.md",
+    "Arrays and Hashing/Products of Array Except Self/Drawing 2025-09-28 23.26.54.excalidraw.md",
     "Excalidraw",
+    "Arrays and Hashing/Products of Array Except Self",
     "Stack/Valid Parentheses",
     "Stack",
-    "Two Pointers/Container With Most Water/Drawing 2025-09-19 14.59.31.excalidraw.md",
     "Two Pointers/Trapping Rain Water/Excalidraw",
     "Two Pointers/Trapping Rain Water",
-    "Two Pointers/3Sum/Drawing 2025-09-19 14.58.59.excalidraw.md",
     "Two Pointers/Valid Palindrome/Drawing 2025-09-19 15.01.10.excalidraw.md",
     "Two Pointers/Valid Palindrome/Pasted Image 20250919150122_022.png",
     "Drawing 2025-09-19 15.00.55.excalidraw.md",
     "Two Pointers/Valid Palindrome",
-    "Two Pointers/Two Integer sum II/Drawing 2025-09-19 15.00.05.excalidraw.md",
     "Two Pointers/Two Integer sum II/Pasted Image 20250919150051_858.png",
     "Two Pointers/Two Integer sum II",
     "Two Pointers/3Sum/Pasted Image 20250919145909_221.png",
     "Two Pointers/Container With Most Water",
     "Arrays and Hashing/Valid Anagram/Drawing 2025-09-19 14.58.20.excalidraw.md",
     "Two Pointers/3Sum",
-    "Two Pointers",
     "Arrays and Hashing/Valid Anagram/Pasted Image 20250919145831_877.png",
     "Arrays and Hashing/Top K/Drawing 2025-09-19 14.57.28.excalidraw.md",
     "Arrays and Hashing/Top K/Pasted Image 20250919145807_729.png",
